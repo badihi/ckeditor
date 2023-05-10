@@ -30,6 +30,7 @@
     "@ckeditor/ckeditor5-word-count": "^29.0.0",
     "@ckeditor/ckeditor5-font": "^29.0.0",
     "@ckeditor/ckeditor5-source-editing": "^29.0.0",
+    "@ckeditor/ckeditor5-image": "^29.0.0",
     "css-loader": "^5.2.6",
     "postcss": "^8.3.5",
     "postcss-loader": "^4.3.0",
